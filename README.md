@@ -2,7 +2,7 @@
 ## Install using requirements.txt
 1. Download and install [Python](https://www.python.org/downloads/).
 2. Download [this repository](https://github.com/amirwesthoff/python-bts-requests-analysis) from github, or, open a terminal and run `git clone https://github.com/amirwesthoff/python-bts-requests-analysis.git`
-3. Navigate to the downloaded folder in the terminal
+3. Navigate to the downloaded folder in the terminal (Windows shortcut: navigate to the `python-bts-requests-analysis` folder in Windows Explorer, type `cmd` in the path bar.)
 4. Run `pip install -r requirements.txt`
 
 ## To perform analysis on requests
