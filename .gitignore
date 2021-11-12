@@ -2,7 +2,5 @@
 __pycache__
 output.*
 requests/*.xlsx
-requests/2020/*
-requests/2020
 venv/*
 venv/
